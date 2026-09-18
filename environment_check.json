@@ -1,0 +1,20 @@
+{
+  "torch": "2.6.0+cu124",
+  "cuda": "12.4",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "input_shape": [
+    2,
+    3,
+    224,
+    224
+  ],
+  "output_shape": [
+    2,
+    2
+  ],
+  "loss": 0.7371209859848022,
+  "peak_memory_mb": 620.1689453125,
+  "heic_decode": "passed",
+  "pretrained_load": "passed",
+  "forward_backward_optimizer": "passed"
+}

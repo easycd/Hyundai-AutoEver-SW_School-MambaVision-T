@@ -1,0 +1,7 @@
+# Install CUDA-enabled torch and matching torchvision FIRST (see README).
+mambavision==1.2.0
+pillow-heif>=0.18,<2
+Pillow>=10,<13
+streamlit>=1.40,<2
+opencv-python-headless==5.0.0.93
+imageio-ffmpeg==0.6.0
